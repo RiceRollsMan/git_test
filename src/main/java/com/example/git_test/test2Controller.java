@@ -2,6 +2,7 @@ package com.example.git_test;
 
 public class test2Controller {
     public String abc(){
-        return "ccccccaaa";
+        System.out.println("abc");
+        return "c";
     }
 }
